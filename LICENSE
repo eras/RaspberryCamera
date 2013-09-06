@@ -1,3 +1,9 @@
+Some components in the schematics are from the Sparkfun Eagle libraries
+at https://github.com/sparkfun/SparkFun-Eagle-Libraries . They are
+licensed under CC v3.0 Share-Alike (http://creativecommons.org/licenses/by-sa/3.0/).
+
+License for the rest:
+
 Copyright (c) 2013, Erkki Seppälä <flux@inside.org>
 All rights reserved.
 
